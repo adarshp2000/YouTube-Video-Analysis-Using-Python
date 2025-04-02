@@ -1,15 +1,9 @@
-# Youtube-Video-Analysis-Project
-YouTube is one of the world's largest streaming platforms, hosting over 800 million videos. However, only a small fraction of these videos gain widespread attention and become "viral" or "trending." This project aims to analyze the vast collection of YouTube videos and identify patterns that differentiate viral videos from regular ones.
+#YouTube stands as one of the globe's most extensive video-sharing platforms, featuring more than 800 million uploads. Yet, only a tiny percentage achieve viral status or appear in trending lists. This project explores the characteristics that set widely popular videos apart from typical uploads by examining three core metrics:
 
-To assess the quality of a video, we use three key numerical parameters:
+View count: Total viewers of the video.
 
-  #views: The number of users who have watched the video.
-  
-  #likes: The number of users who appreciated the video.
-  
-  #dislikes: The number of users who did not enjoy the video.
-  
-  #category_id: The classification ID of the video.
+Like/Dislike ratio: User engagement indicating approval or disapproval.
 
+Category ID: The video’s classification within YouTube’s content system.
 
-For this project, my team and I worked with a dataset of YouTube videos from the United States, utilizing Python, pandas, NumPy, Matplotlib, and other libraries to conduct statistical analysis and data visualization. The goal was to present key takeaways without requiring an in-depth examination of each data point, allowing audiences to grasp essential trends and patterns emerging from the dataset.
+Collaborating with my team, we analyzed U.S.-based YouTube video data using Python, pandas, NumPy, and visualization tools like Matplotlib. Our approach focused on statistical evaluation and intuitive visual summaries to highlight overarching trends—such as correlations between engagement metrics and virality—without requiring granular data scrutiny. This streamlined presentation enables audiences to quickly grasp factors influencing a video’s success, from audience interaction patterns to category-specific trends.
