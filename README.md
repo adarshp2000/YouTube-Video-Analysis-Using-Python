@@ -1,4 +1,4 @@
-#YouTube stands as one of the globe's most extensive video-sharing platforms, featuring more than 800 million uploads. Yet, only a tiny percentage achieve viral status or appear in trending lists. This project explores the characteristics that set widely popular videos apart from typical uploads by examining three core metrics:
+YouTube stands as one of the globe's most extensive video-sharing platforms, featuring more than 800 million uploads. Yet, only a tiny percentage achieve viral status or appear in trending lists. This project explores the characteristics that set widely popular videos apart from typical uploads by examining three core metrics:
 
 View count: Total viewers of the video.
 
